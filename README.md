@@ -1,7 +1,8 @@
 # BMI Calculator
 
-![BMI 1](BMICalculator1.jpg)
+<img src="BMICalculator1.jpg" alt="BMICalculator1" width="300"/>
 
 #
 
-![BMI 2](BMICalculator2.jpg)
+<img src="BMICalculator2.jpg" alt="BMICalculator2" width="300"/>
+
